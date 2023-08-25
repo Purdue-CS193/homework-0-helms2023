@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Testing the Theme Editor
+
+What's up! This may be a tiny bit confusing, but the editing software for this website seems rather intuitive. With an open mind this could be kinda fun!!
+1. Item #1
+2. Item #2
+
+- Do it
+- again!!
+
+**BOOM!!** _Shakalaka..._ `what to do when i cannot find this character...`
+
+[Later!!](gmail.com)
