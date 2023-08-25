@@ -6,8 +6,9 @@
 - The lack of exams and finals
 - The cool feeling it gives you going in-depth into Github beyond just a file-saving website
 - Knowing there is still so much more to go in what we learn
-- The TA's are chill
-...and more all make CS193 pretty cool!
+- and The chill TA's
+  
+...all make CS193 pretty cool!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
